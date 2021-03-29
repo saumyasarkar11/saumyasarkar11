@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 ![Saumya's GitHub stats](https://github-readme-stats.vercel.app/api?username=saumyasarkar11&count_private=true&show_icons=true&theme=radical&hide=stars&count_private=true)
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saumyasarkar11&layout=compact)](https://github.com/saumyasarkar11/joomla-cms)
+
 <!--
 **saumyasarkar11/saumyasarkar11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
