@@ -1,5 +1,5 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Saumya Sarkar</h1>
-<h3 align="center">A Competent Web Application Developer from India</h3>
+<h1>Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Saumya Sarkar</h1>
+<h3>A Competent Web Application Developer from India</h3>
 
 - 🔭 I’m currently working on <a href="https://github.com/saumyasarkar11/Ingeniva-Invoice" target="_blank">Ingeniva Invoice</a>
 
