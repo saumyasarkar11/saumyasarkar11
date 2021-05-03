@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on <a href="https://github.com/saumyasarkar11/Ingeniva-Invoice" target="_blank">Ingeniva Invoice</a>
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **Typescript**
 
 - 💬 Ask me about **PHP**
 
