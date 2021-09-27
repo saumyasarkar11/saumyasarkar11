@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on <a href="https://github.com/saumyasarkar11/Score-Insight" target="_blank">Score Insight</a>
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **PHP**
 
