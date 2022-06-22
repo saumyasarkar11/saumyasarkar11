@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **PHP**
 
-- 📫 How to reach me **saumyasarkar27@gmail.com**
+- 📫 How to reach me **mail@saumyasarkar.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
