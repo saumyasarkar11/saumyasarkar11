@@ -1,4 +1,4 @@
-<h1>Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Saumya Sarkar</h1>
+<h1>Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px"> I'm Saumya Sarkar</h1>
 <h3>A Competent Web Application Developer</h3>
 
 - 🔭 I’m currently working on <a href="https://github.com/saumyasarkar11/whatsapp-clone" target="_blank">Whatsapp Clone</a>
