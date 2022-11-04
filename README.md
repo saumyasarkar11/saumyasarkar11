@@ -1,9 +1,9 @@
 <h1>Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px"> I'm Saumya Sarkar</h1>
 <h3>A Competent Web Application Developer</h3>
+<!-- 
+- 🔭 I’m currently working on <a href="https://github.com/saumyasarkar11/whatsapp-clone" target="_blank">Whatsapp Clone</a> -->
 
-- 🔭 I’m currently working on <a href="https://github.com/saumyasarkar11/whatsapp-clone" target="_blank">Whatsapp Clone</a>
-
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Next JS**
 
 - 💬 Ask me about **PHP**
 
@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/saumya-sarkar-3966791b8" target="blank"><img align="center" src="linkedin.svg" alt="saumya-sarkar-3966791b8" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/saumya-sarkar" target="blank"><img align="center" src="linkedin.svg" alt="saumya-sarkar-3966791b8" height="30" width="40" /></a>
 <a href="https://instagram.com/saumya_sarkar11" target="blank"><img align="center" src="instagram.svg" alt="saumya_sarkar11" height="30" width="40" /></a>
 </p>
 
