@@ -3,7 +3,7 @@
 <!-- 
 - 🔭 I’m currently working on <a href="https://github.com/saumyasarkar11/whatsapp-clone" target="_blank">Whatsapp Clone</a> -->
 
-- 🌱 I’m currently learning **Next JS**
+- 🌱 I’m currently learning **Golang**
 
 - 💬 Ask me about **PHP**
 
